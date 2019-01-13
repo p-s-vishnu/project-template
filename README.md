@@ -1,13 +1,10 @@
-| Readme templates       |
-| ---------------------- |
-| 1. [Simple](#simple)   |
-| 2. [Complex](#complex) |
+# Readme templates
+1. [Simple](#simple)
+2. [Complex](#complex)
 
 
 
-# Simple
-
-
+### Simple
 
 # Project Title
 
@@ -105,7 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 
-# Complex
+### Complex
 
 
 
